@@ -11,7 +11,6 @@ const Home = () => {
       <Navbar />
       <HeroImage />
       <About text="Learn More.." link="/About" />
-      <Bot />
       <Footer />
     </div>
   );
